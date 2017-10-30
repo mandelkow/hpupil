@@ -1,3 +1,7 @@
-# Only track *.m files:
+# Only track files *.m *.txt *.md...
 *
 !*.m
+!*.txt
+!*.md
+!*.org
+!*.bak
