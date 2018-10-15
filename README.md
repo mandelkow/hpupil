@@ -1,3 +1,4 @@
+```matlab
 %HPUPIL [2B5] Bounding box for pupil from monkey video.
 %
 % Pupil(t,[x,y,dx,dy,t]) = hpupil(VideoFile,'param',value,...)
@@ -19,3 +20,4 @@
 % Turchi JN, Duyn JH. Tracking brain arousal fluctuations with fMRI. Proc Natl Acad
 % Sci U S A. 2016 Apr 19;113(16):4518-23. doi: 10.1073/pnas.1520613113. Epub 2016
 % Apr 5. PubMed PMID: 27051064; PubMed Central PMCID: PMC4843437.
+```
